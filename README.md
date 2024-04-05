@@ -1,7 +1,7 @@
 ## <p align="left">Olá! 👋 Sou Leandro Ramos Silva, um desenvolvedor Front/Back - End com mais de 6 anos de experiência na área de tecnologia. 
 
 
-<h2 aling="left"> About me!</h2>
+<b aling="left> About me!</b>
 Comecei minha jornada aos 21 anos, após concluir minha formação em Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado ao constante aprimoramento, mantendo-me atualizado com as mais recentes tendências e avanços tecnológicos. Minha paixão pela tecnologia e meu compromisso com a excelência me impulsionam a enfrentar os desafios complexos do mundo digital.
 Meu foco principal está em desenvolvimento web utilizando tecnologias como Laravel, MySQL, Oracle, JavaScript e Angular. 
 Possuo especialização em CRMs, além de experiência tanto no front-end quanto no back-end.
