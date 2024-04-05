@@ -1,6 +1,6 @@
 ### <p align="left">Olá! 👋 Sou Leandro Ramos Silva desenvolvedor Front/Back - End 
 
-
+<br>
 
 <b aling="left"> About me!</b>
 
