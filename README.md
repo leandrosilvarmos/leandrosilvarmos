@@ -9,12 +9,16 @@ Desde então, tenho me dedicado ao constante aprimoramento, mantendo-me atualiza
 Meu foco principal está em desenvolvimento web utilizando tecnologias como Laravel, MySQL, Oracle, JavaScript e Angular. 
 Possuo especialização em CRMs, além de experiência tanto no front-end quanto no back-end.
 
+<br>
 
 ## 🚀 Projetos
 - [DecFusion](#) (projeto fictício de e-commerce).
 - [Analytics BI](#) (projeto fictício de análise de dados).
 - [Portfólio Profissional](#) (meu portfólio profissional).
 - Também deixo em meu [repositório](#) projetos com Angular e templates de Landing Pages.
+
+
+<br><br>
 
 <h3 align="left">Connect with me!</h3>
 
@@ -25,14 +29,19 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
 <h3 align="left">My Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="25" alt="Laravel logo" />
+  <img width="8" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" alt="Angular logo" />
+    <img width="8" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL logo" />
+
+</div>
+
 </div>
 
 
