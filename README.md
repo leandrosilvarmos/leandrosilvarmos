@@ -18,7 +18,7 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
 - Também deixo em meu [repositório](#) projetos com Angular e templates de Landing Pages.
 
 
-<br><br>
+<br>
 
 <h3 align="left">Connect with me!</h3>
 
@@ -40,9 +40,7 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL logo" />
 </div>
 
-</div>
-
-
+<br>
 <h3>GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VBDOL&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=45B1E8&text_color=FFF&border_radius=3&border_color=36123c&icon_color=45B1E8&theme=jolly)
