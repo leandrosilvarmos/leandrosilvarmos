@@ -1,6 +1,7 @@
 ### <p align="left">Olá! 👋 Sou Leandro Ramos Silva desenvolvedor Front/Back - End 
 
 
+
 <b aling="left"> About me!</b>
 
 Há mais de 6 anos atuando na área de tecnologia comecei minha jornada aos 21 anos, após concluir minha formação em Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado ao constante aprimoramento, mantendo-me atualizado com as mais recentes tendências e avanços tecnológicos. Minha paixão pela tecnologia e meu compromisso com a excelência me impulsionam a enfrentar os desafios complexos do mundo digital.
