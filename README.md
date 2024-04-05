@@ -1,4 +1,4 @@
-<p align="left">Olá! 👋 Sou Leandro Ramos Silva, um desenvolvedor Front/Back - End com mais de 6 anos de experiência na área de tecnologia. 
+## <p align="left">Olá! 👋 Sou Leandro Ramos Silva, um desenvolvedor Front/Back - End com mais de 6 anos de experiência na área de tecnologia. 
 
 
 <h2 aling="left"> About me!</h2>
@@ -8,7 +8,6 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
 
 
 ## 🚀 Projetos
-
 - [DecFusion](#) (projeto fictício de e-commerce).
 - [Analytics BI](#) (projeto fictício de análise de dados).
 - [Portfólio Profissional](#) (meu portfólio profissional).
