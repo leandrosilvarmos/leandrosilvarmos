@@ -21,6 +21,11 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=45B1E8&color:FFF)](https://www.linkedin.com/in/victor-b-o-leme-dev/)
 
 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=45B1E8&color:FFF)](vbdol.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=45B1E8&color:FFF)](https://www.linkedin.com/in/victor-b-o-leme-dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=45B1E8&color:FFF)](https://www.instagram.com/vbdol.dev/)
+
+
 <h3 align="left">My Stack</h3>
 
 <div align="left">
