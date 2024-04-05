@@ -2,12 +2,18 @@
 
 
 <h2 aling="left"> About me!</h2>
-<br>Comecei minha jornada aos 21 anos, após concluir minha formação em Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado ao constante aprimoramento, mantendo-me atualizado com as mais recentes tendências e avanços tecnológicos. Minha paixão pela tecnologia e meu compromisso com a excelência me impulsionam a enfrentar os desafios complexos do mundo digital.
+Comecei minha jornada aos 21 anos, após concluir minha formação em Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado ao constante aprimoramento, mantendo-me atualizado com as mais recentes tendências e avanços tecnológicos. Minha paixão pela tecnologia e meu compromisso com a excelência me impulsionam a enfrentar os desafios complexos do mundo digital.
 Meu foco principal está em desenvolvimento web utilizando tecnologias como Laravel, MySQL, Oracle, JavaScript e Angular. 
 Possuo especialização em CRMs, além de experiência tanto no front-end quanto no back-end.
 
-<br><h2 aling="left"> Projects! </h2>
-<br>* Dec (parceira da faculdade).<br> * Microsoft Learn. <br> * Programa HackersDoBem, GOV. BR. <br>* E também deixo um tempinho para aprender um pouco mais com alguns cursos especificos na Udemy.
+
+## 🚀 Projetos
+
+- [DecFusion](#) (projeto fictício de e-commerce).
+- [Analytics BI](#) (projeto fictício de análise de dados).
+- [Portfólio Profissional](#) (meu portfólio profissional).
+- Também deixo em meu [repositório](#) projetos com Angular e templates de Landing Pages.
+
 
 
 <h3 align="left">Connect with me!</h3>
