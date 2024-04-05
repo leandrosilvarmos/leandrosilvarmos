@@ -14,6 +14,7 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
 - [Portfólio Profissional](#) (meu portfólio profissional).
 - Também deixo em meu [repositório](#) projetos com Angular e templates de Landing Pages.
 
+<h3 align="left">Connect with me!</h3>
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=45B1E8&color:FFF)](leandro.silva.rmos@gmail.com)
