@@ -6,11 +6,12 @@
 
 
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na GRAN FACULDADE (Gran Concursos). Atualmente me encontro em alguns programas bem legais que estão contribuindo para meu desenvolvimento como proficional, alguns deles são: <br>* ONE ORACLE + Alura estou na Fase 3 - Especialização Front-End
-Formações técnicas e Soft Skills.<br>* Skill for All by Cisco Networking Academy (parceira da faculdade).<br> * Microsoft Learn. <br> * Programa HackersDoBem, GOV. BR. <br>* E também deixo um tempinho para aprender um pouco mais com alguns cursos especificos na Udemy.
+<p align="left">Olá! 👋 Sou Leandro Ramos Silva, um desenvolvedor Full Stack com mais de 6 anos de experiência na área de tecnologia. 
+  Meu foco principal está em desenvolvimento web utilizando tecnologias como Laravel, MySQL, Oracle, JavaScript e Angular. 
+  Possuo especialização em CRMs, além de experiência tanto no front-end quanto no back-end.
 
-Me interesso tanto por front quanto por back-end, e minhas principais linguagens são HTML, CSS e JavaScript (Também estou aprendendo React). 
-Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+<h2 aling="left"> Sobre Mim
+Comecei minha jornada aos 21 anos, após concluir minha formação em Análise e Desenvolvimento de Sistemas. Desde então, tenho me dedicado ao constante aprimoramento, mantendo-me atualizado com as mais recentes tendências e avanços tecnológicos. Minha paixão pela tecnologia e meu compromisso com a excelência me impulsionam a enfrentar os desafios complexos do mundo digital.
 
 
 <h3 align="left">Connect with me!</h3>
