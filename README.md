@@ -1,4 +1,4 @@
-## <p align="left">Olá! 👋 Sou Leandro Ramos Silva, um desenvolvedor Front/Back - End com mais de 6 anos de experiência na área de tecnologia. 
+# <p align="left">Olá! 👋 Sou Leandro Ramos Silva, um desenvolvedor Front/Back - End com mais de 6 anos de experiência na área de tecnologia. 
 
 
 <b aling="left"> About me!</b>
