@@ -12,10 +12,10 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
 <br>
 
 ## 🚀 Projetos
-- [DecFusion](#) (projeto fictício de e-commerce).
-- [Analytics BI](#) (projeto fictício de análise de dados).
-- [Portfólio Profissional](#) (meu portfólio profissional).
-- Também deixo em meu [repositório](#) projetos com Angular e templates de Landing Pages.
+- [DecFusion](https://github.com/leandrosilvarmos/decFusion) (projeto fictício de e-commerce).
+- [Analytics BI](https://analytics.zoho.com/open-view/1439015000030043522) (projeto fictício de análise de dados).
+- [Portfólio Profissional](https://github.com/leandrosilvarmos/portifolio) (meu portfólio profissional).
+- Também deixo em meu [repositório](https://github.com/leandrosilvarmos) projetos com Angular e templates de Landing Pages.
 
 
 <br>
