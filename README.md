@@ -3,25 +3,58 @@
 [![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
-[![CI](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml/badge.svg)](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-
-A Ruby script that colorizes the `ls` output with color and icons. Here are the screenshots of working example on an iTerm2 terminal (Mac OS), `oh-my-zsh` with `powerlevel9k` theme and `powerline nerd-font + awesome-config` font with the `Solarized Dark` color theme.
-
- ![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
 
 
 
+<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na GRAN FACULDADE (Gran Concursos). Atualmente me encontro em alguns programas bem legais que estão contribuindo para meu desenvolvimento como proficional, alguns deles são: <br>* ONE ORACLE + Alura estou na Fase 3 - Especialização Front-End
+Formações técnicas e Soft Skills.<br>* Skill for All by Cisco Networking Academy (parceira da faculdade).<br> * Microsoft Learn. <br> * Programa HackersDoBem, GOV. BR. <br>* E também deixo um tempinho para aprender um pouco mais com alguns cursos especificos na Udemy.
 
-Here are some ideas to get you started:
+Me interesso tanto por front quanto por back-end, e minhas principais linguagens são HTML, CSS e JavaScript (Também estou aprendendo React). 
+Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=45B1E8&color:FFF)](vbdol.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=45B1E8&color:FFF)](https://www.linkedin.com/in/victor-b-o-leme-dev/)
+
+<h3 align="left">My Stack</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+</div>
+
+
+<h3>GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VBDOL&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=45B1E8&text_color=FFF&border_radius=3&border_color=36123c&icon_color=45B1E8&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VBDOL&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=45B1E8&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=45B1E8&count_private=true)](https://github.com/VBDOL/github-readme-stats)
+<br>
+<!---
+VBDOL/VBDOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VBDOL/VBDOL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VBDOL/VBDOL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VBDOL/VBDOL/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a>.
+  - GitHub Stats by <a href="https://github.com/VBDOL/github-readme-stats">VBDOL</a>.
+  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/VBDOL">VBDOL</a>.</div>
+
+</details>
