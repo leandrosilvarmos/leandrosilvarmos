@@ -15,6 +15,7 @@ Possuo especialização em CRMs, além de experiência tanto no front-end quanto
 - Também deixo em meu [repositório](#) projetos com Angular e templates de Landing Pages.
 
 <h3 align="left">Connect with me!</h3>
+
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=45B1E8&color:FFF)](leandro.silva.rmos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=45B1E8&color:FFF)](https://www.linkedin.com/in/leandro-ramos-silva/)
 
